@@ -8,7 +8,7 @@ export default function NavBar() {
         <a href="#home">Chats</a>
         <a href="#news">Explorar Grupos</a>
         <a href="#contact">Contactos</a>
-        <a href="#about">Nosotros</a>
+        <a href="#about">OWL's</a>
         <a href="#configuración">Configuración</a>
         <a href="javascript:void(0);" class="icon" onclick="myFunction()">
             <i class="fa fa-bars"></i>
